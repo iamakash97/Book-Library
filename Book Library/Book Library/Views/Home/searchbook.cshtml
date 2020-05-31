@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "searchbook";
+}
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+           </div>
+            <div class="col-md-4">
+                <h2>Search Book Here </h2>
+                <h4>Enter The Book Title Below Correctly</h4>
+                <form class="text-center border border-light p-5" action="/Home/bookdetail" method="post">
+                    <input type="text" name="t" class="form-control " placeholder="Title" required>
+                    <button class="btn btn-danger" type="submit">Search Book</button>
+                </form>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+    </div>
+</div>

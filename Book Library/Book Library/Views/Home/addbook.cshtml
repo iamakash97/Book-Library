@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+
+            </div>
+            <div class="col-md-4">
+                <h4>Add a Book to the library</h4>
+                <form class="text-center border border-light p-5" action="/Home/addbook" method="post">
+                    <input type="text" name="title" class="form-control " placeholder="Title" required>
+                    <input type="text" name="author" class="form-control" placeholder="Author" required>
+                    <input type="text" name="isbn" class="form-control" placeholder="ISBN" required>
+                    <input type="text" name="publisher" class="form-control" placeholder="publisher" required>
+                    <input type="text" name="year" class="form-control" placeholder="year" required>
+
+
+                    <button class="btn btn-danger" type="submit">Add BOOK</button>
+
+
+                </form>
+
+            </div>
+            <div class="col-md-4">
+
+            </div>
+
+        </div>
+    </div>
+</div>

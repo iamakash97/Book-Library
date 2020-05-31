@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "bookdetail";
+}
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+           </div>
+            <div class="col-md-8">
+                <h3><b><u>Book Details</u></b></h3>
+                <table class="table-bordered">
+                    <tr class="success"><td><h4><b>ID</b></h4></td> <td><h5>@ViewData["Id"]</h5></td></tr>
+                    <tr class="success"><td><h4><b>Title</b></h4></td> <td><h5>@ViewData["name"]</h5></td></tr>
+                    <tr class="success"><td><h4><b>Author</b></h4></td> <td><h5>@ViewData["author"]</h5></td></tr>
+                    <tr class="success"><td><h4><b>ISBN</b></h4></td> <td><h5>@ViewData["ISBN"]</h5></td></tr>
+                    <tr class="success"><td><h4><b>Publisher</b></h4></td> <td><h5>@ViewData["publisher"]</h5></td></tr>
+                    <tr class="success"><td><h4><b>Year</b></h4></td> <td><h5>@ViewData["year"]</h5></td></tr>
+                </table>
+            </div>
+            <div class="col-md-2">
+           </div>
+       </div>
+    </div>
+</div>
+
+

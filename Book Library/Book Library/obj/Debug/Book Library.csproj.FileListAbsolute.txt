@@ -1,0 +1,82 @@
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Book Library.dll.config
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Book Library.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Book Library.pdb
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\csc.exe
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\csc.exe.config
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\csc.rsp
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\csi.exe
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\csi.exe.config
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\csi.rsp
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.Managed.Core.targets
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.AppContext.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Collections.Immutable.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Console.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.IO.Compression.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.IO.FileSystem.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.IO.Pipes.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Reflection.Metadata.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Security.AccessControl.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Security.Claims.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Security.Principal.Windows.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.ValueTuple.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Xml.XmlDocument.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Xml.XPath.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\vbc.exe
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\vbc.exe.config
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\vbc.rsp
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\VBCSCompiler.exe
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\roslyn\VBCSCompiler.exe.config
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Antlr3.Runtime.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Microsoft.Web.Infrastructure.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Newtonsoft.Json.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Helpers.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Mvc.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Optimization.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Razor.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.WebPages.Deployment.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.WebPages.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.WebPages.Razor.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\WebGrease.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Helpers.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Mvc.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Optimization.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.Razor.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.WebPages.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.WebPages.Deployment.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\System.Web.WebPages.Razor.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Newtonsoft.Json.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Antlr3.Runtime.pdb
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CDAC\Ms DotNet\Book Library\Book Library\obj\Debug\Book Library.csprojAssemblyReference.cache
+G:\CDAC\Ms DotNet\Book Library\Book Library\obj\Debug\Book Library.csproj.CoreCompileInputs.cache
+G:\CDAC\Ms DotNet\Book Library\Book Library\obj\Debug\Book Library.csproj.CopyComplete
+G:\CDAC\Ms DotNet\Book Library\Book Library\obj\Debug\Book Library.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\obj\Debug\Book Library.pdb
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\BLL.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\BOL.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\DAL.dll
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\BLL.pdb
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\BOL.pdb
+G:\CDAC\Ms DotNet\Book Library\Book Library\bin\DAL.pdb

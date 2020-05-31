@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header><h1 align="center">Book Library Management System</h1><hr></header>
+    <div class="navbar navbar-expand-sm bg-danger navbar-light ">
+        <div class="container">
+          <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/Home/showbooklist"><b>Home</b></a></li>
+                    <li><a href="/Home/addbook"><b>Add Book</b></a></li>
+                    <li><a href="/Home/modifybookrecord"><b>Edit Book Records</b></a></li>
+                    <li><a href="/Home/searchbook"><b>Search Book</b></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>2020 Book Inventory Management System</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

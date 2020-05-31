@@ -1,0 +1,6 @@
+G:\CDAC\Ms DotNet\Book Library\BOL\bin\Debug\BOL.dll
+G:\CDAC\Ms DotNet\Book Library\BOL\bin\Debug\BOL.pdb
+G:\CDAC\Ms DotNet\Book Library\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+G:\CDAC\Ms DotNet\Book Library\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+G:\CDAC\Ms DotNet\Book Library\BOL\obj\Debug\BOL.dll
+G:\CDAC\Ms DotNet\Book Library\BOL\obj\Debug\BOL.pdb

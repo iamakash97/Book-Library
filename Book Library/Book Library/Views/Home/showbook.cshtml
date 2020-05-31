@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "showbook";
+}
+
+<div class="jumbotron">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+
+            </div>
+            <div class="col-md-4">
+                <h4>Edit Book Details Here</h4>
+                <form class="text-center border border-light p-5" action="/Home/updatebook" method="post">
+                    <input type="text" name="serno" class="form-control" value="@ViewData["Id"]" placeholder="Serial No">
+                    <input type="text" name="title" class="form-control" value="@ViewData["title"]" placeholder="Title">
+                    <input type="text" name="author" class="form-control" value="@ViewData["author"]" placeholder="Author">
+                    <input type="text" name="isbn" class="form-control" value="@ViewData["ISBN"]" placeholder="ISBN">
+                    <input type="text" name="publisher" class="form-control" value="@ViewData["publisher"]" placeholder="publisher">
+                    <input type="text" name="year" class="form-control" value="@ViewData["year"]" placeholder="year">
+                    <button class="btn btn-danger" type="submit">Update Book</button>
+
+
+                </form>
+
+            </div>
+            <div class="col-md-4">
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
